@@ -55,7 +55,8 @@ Access the application at: `http://localhost:3000`
 
 ## Quick Start
 
-download the ZIP file or clone the extracted file -- then go to the working directories and install packages as per back/front end folders.
+-- download the ZIP file or clone the extracted file.
+-- Go to the working directories and remove package-lock.json & install packages as per back/front end folders.
 
 ### Method 1: Using Create React App (Easiest)
 
