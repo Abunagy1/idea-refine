@@ -2,60 +2,6 @@
 
 Transform rough website ideas into clear, actionable prompts for developers and AI tools.
 
-## STRUCTURE of the app
-
-idea-refine/
-
-├── backend/
-
-│ ├── server.js
-
-│ ├── package.json
-
-│ ├── .env # Your actual environment variables
-
-│ ├── .env.example # Template for GitHub
-
-│ ├── .gitignore
-
-│ └── utils/
-
-│ └── promptEnhancer.js
-
-├── frontend/
-
-│ ├── src/
-
-│ │ ├── components/
-
-│ │ │ ├── HeroSection.jsx
-
-│ │ │ ├── HeroSection.css
-
-│ │ │ ├── IdeaForm.jsx
-
-│ │ │ ├── IdeaForm.css
-
-│ │ │ ├── ImprovedIdea.jsx
-
-│ │ │ └── ImprovedIdea.css
-
-│ │ ├── App.js
-
-│ │ ├── index.js # ← NEW: React entry point
-
-│ │ └── styles.css
-
-│ ├── public/
-
-│ │ └── index.html # ← NEW: HTML template
-
-│ ├── package.json
-
-│ └── .gitignore
-
-└── README.md
-
 ## Live Demo
 
 Access the application at: `http://localhost:3000`
