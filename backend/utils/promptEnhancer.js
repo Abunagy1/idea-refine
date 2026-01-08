@@ -5,8 +5,8 @@ const enhancementTemplates = [
 ];
 
 const sections = [
-    "1. Hero section with clear value proposition",
-    "2. Features/benefits section",
+    " Hero section with clear value proposition",
+    " Features/benefits section",
     "3. Testimonials or social proof",
     "4. Call-to-action section",
     "5. Contact/lead capture form",

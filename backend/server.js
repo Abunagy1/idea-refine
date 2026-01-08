@@ -26,7 +26,7 @@ app.post('/api/enhance-idea', async (req, res) => {
         }
 
         // Simulate processing delay (like a real API)
-        await new Promise(resolve => setTimeout(resolve, 800));
+        await new Promise(resolve => setTimeout(resolve, 1000));
 
         const enhanced = enhancePrompt(idea);
 
